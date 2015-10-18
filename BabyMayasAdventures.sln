@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyMayasAdventures.W10", "BabyMayasAdventures.W10\BabyMayasAdventures.W10.csproj", "{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{CB5279C2-3FFF-41A4-AB6E-88AC87C5E270}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.config = .nuget\NuGet.config
+	EndProjectSection
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|ARM.Build.0 = Debug|ARM
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|x64.ActiveCfg = Debug|x64
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|x64.Build.0 = Debug|x64
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|x64.Deploy.0 = Debug|x64
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|x86.ActiveCfg = Debug|x86
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|x86.Build.0 = Debug|x86
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Debug|x86.Deploy.0 = Debug|x86
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|ARM.ActiveCfg = Release|ARM
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|ARM.Build.0 = Release|ARM
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|ARM.Deploy.0 = Release|ARM
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|x64.ActiveCfg = Release|x64
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|x64.Build.0 = Release|x64
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|x64.Deploy.0 = Release|x64
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|x86.ActiveCfg = Release|x86
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|x86.Build.0 = Release|x86
+		{8ECC6C67-9A80-44E2-BCC1-0948A0C8359F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+
+EndGlobal
